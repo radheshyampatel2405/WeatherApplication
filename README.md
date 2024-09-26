@@ -2,6 +2,7 @@ This app will show the weather what we have search for the result we have use th
 we also use Google banner ads to show ads in the app 
 
 APP Icon
+
 ![WhatsApp Image 2024-09-26 at 12 03 05_fe64039f](https://github.com/user-attachments/assets/134d01a0-4893-4167-bc6a-5f1d0deeb0a4)
 
 APP interface 
